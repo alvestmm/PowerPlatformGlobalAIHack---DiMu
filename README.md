@@ -13,7 +13,7 @@ Women have less exposure to financial literacy, are paid less than men and live 
 **Di** (*dinheiro - money*) **Mu** (*mulher - woman*) is a simple chatbot capable of answering questions related to personal finance and money. The system's knowledge base are websites about financial literacy in general and targeted to women. With DiMu we expect to contribute to the democratization of financial literacy, enabling women to access information about finances, empowering them to choose and access appropriate financial services and products and take control of their money.
 
 You can try our chatbot on this [demo website](https://web.powerva.microsoft.com/environments/2e9ef168-bfef-e2b4-8737-16cb16a3cd10/bots/cr478_bot1/canvas?__version__=2).
-Check our solution video [here]().
+Check our solution video [here](https://youtu.be/hYGTc-NK5kk?feature=shared).
 
 ## DiMu's Team
 
