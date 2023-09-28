@@ -9,4 +9,4 @@ Check our demo video [here]().
 ## Motivation
 
 ## Project Team
-This project was developed by me - Maria Manuela Alves - and Inês Alves
+This project was developed by me - [Maria Manuela Alves](https://www.linkedin.com/in/maria-manuela-alves/) - and [Inês Alves](http://www.linkedin.com/in/inêstavaresalves)
