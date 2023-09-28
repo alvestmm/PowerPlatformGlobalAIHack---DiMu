@@ -1,6 +1,6 @@
 # DiMu 💰 📔- Women Financial Literacy Helper Bot
 
-[Microsoft Hack Together: The Power Platform AI Global Hack](https://learn.microsoft.com/en-us/events/hack-together-powerplatform-ai/) is a global online hackathon (September 14-28, 2023)🌍, where you can learn, experiment, and get hands-on experience with the new Copilot and AI features in the Power Platform 💻. 
+[Microsoft Hack Together: The Power Platform AI Global Hack](https://learn.microsoft.com/en-us/events/hack-together-powerplatform-ai/) is a global online hackathon (September 14-28, 2023)🌍. Where you can learn, experiment, and get hands-on experience with the new Copilot and AI features in the Power Platform 💻. 
 
 The goal of Hack Together is to create solutions on the Power Platform that leverage one or more Copilot and AI features. Our solution - *DiMu* is a conversational assistant created with Power Virtual Agents' Copilot and Generative AI Capabilites.
 
