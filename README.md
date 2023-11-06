@@ -1,4 +1,4 @@
-
+![Image](Github_Image.png)
 
 
 # DiMu 💰 📔- Women Financial Literacy Helper Bot
